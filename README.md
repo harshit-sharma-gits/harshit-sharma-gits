@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am a 2nd Year undergraduate student from <a href="hbtu.ac.in">_Harcourt Butler Technical University_</a>, India.<br>
-_Alpha Microsoft Student Learn Ambassador_ (<a href="https://studentambassadors.microsoft.com/certificate/c4bc7671-aac2-48d6-8d63-20306c3250c9">MLSA</a>)
+_Beta Microsoft Student Learn Ambassador_ (<a href="https://studentambassadors.microsoft.com/certificate/c4bc7671-aac2-48d6-8d63-20306c3250c9">MLSA</a>)
 
 - 👀 I’m interested in Desktop Development, Web Development and Open Source
 - 📫 How to reach me:
@@ -13,9 +13,9 @@ _Alpha Microsoft Student Learn Ambassador_ (<a href="https://studentambassadors.
 
 <table width="100%">
   <td width="50%">
-    <h1>
+    <b>
       My GitHub Stats
-    </h1>
+    </b>
   </td>
   <td width="50%">
     <img align="center" alt="Harshit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshit-sharma-gits&show_icons=true&hide_border=true"/>
