@@ -3,9 +3,19 @@ I am a 2nd Year undergraduate student from <a href="hbtu.ac.in">_Harcourt Butler
 _Beta Microsoft Student Learn Ambassador_ (<a href="https://studentambassadors.microsoft.com/certificate/c4bc7671-aac2-48d6-8d63-20306c3250c9">MLSA</a>)
 
 - 👀 I’m interested in Desktop Development, Web Development and Open Source
-- 📫 How to reach me:
-  - LinkedIn : https://www.linkedin.com/in/harshit-sharma-bb36b41b5/
-  - Instagram : https://www.instagram.com/sharma._harshit._/
+
+### Connect with me
+<p>
+  <a href="https://twitter.com/Harshit16901106">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+  <a href="https://www.linkedin.com/in/harshit-sharma-bb36b41b5/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
+  <a href="https://www.instagram.com/sharma._harshit._/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
+</p>
 
 <p align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshit-sharma-gits&color=red" /> </p>
