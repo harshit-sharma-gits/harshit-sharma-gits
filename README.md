@@ -21,16 +21,10 @@ _Beta Microsoft Student Learn Ambassador_ (<a href="https://studentambassadors.m
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshit-sharma-gits&color=red" /> </p>
 </p>
 
-<table width="100%">
-  <td width="50%">
-    <b>
-      My GitHub Stats
-    </b>
-  </td>
-  <td width="50%">
-    <img align="center" alt="Harshit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshit-sharma-gits&show_icons=true&hide_border=true"/>
-  </td>
-</table>
+<p align="center">
+  <img alt="Harshit Sharma's GitHub Stats" src="https://github-readme-stats-six-flame.vercel.app/api?username=harshit-sharma-gits&show_icons=true&hide_border=false&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-sharma-gits&title_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=html&layout=compact&langs_count=7">
+</p>
 <!--
 <h2 align="center">Programming Skills</h2>
 
