@@ -9,6 +9,8 @@ Sophomore at Harcourt Butler Technical University, Kanpur
 * 🧠  I'm learning Flutter ;)
 * 🤝  I'm open to collaborating on Websites, Apps, and Desktop Apps
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshit-sharma-gits&color=red" /> </p>
+
 ### Skills
 
 <p align="left">
