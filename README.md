@@ -1,48 +1,57 @@
-## Hi there 👋
-I am a 2nd Year undergraduate student from <a href="hbtu.ac.in">_Harcourt Butler Technical University_</a>, India.<br>
-_Beta Microsoft Student Learn Ambassador_ (<a href="https://studentambassadors.microsoft.com/certificate/c4bc7671-aac2-48d6-8d63-20306c3250c9">MLSA</a>)
+Hi 👋 My name is Harshit Sharma
+===============================
 
-- 👀 I’m interested in Desktop Development, Web Development and Open Source
+Sophomore at Harcourt Butler Technical University, Kanpur
 
-### Connect with me
-<p>
-  <a href="https://twitter.com/Harshit16901106">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>&ensp;
-  <a href="https://www.linkedin.com/in/harshit-sharma-bb36b41b5/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>&ensp;
-  <a href="https://www.instagram.com/sharma._harshit._/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [Harshit's Portfolio](http://harshit-sharma-gits.github.io/)
+* ✉️  You can contact me at [harshits908@gmail.com](mailto:harshits908@gmail.com)
+* 🧠  I'm learning Flutter ;)
+* 🤝  I'm open to collaborating on Websites, Apps, and Desktop Apps
+
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<p align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshit-sharma-gits&color=red" /> </p>
-</p>
 
-<p align="center">
-  <img alt="Harshit Sharma's GitHub Stats" src="https://github-readme-stats-six-flame.vercel.app/api?username=harshit-sharma-gits&show_icons=true&hide_border=false&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-sharma-gits&title_color=f0883e&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=html&layout=compact&langs_count=7">
-</p>
-<!--
-<h2 align="center">Programming Skills</h2>
+### Socials
 
-<p>
-  <code><img width="10%" height="80px" src="https://github.com/harshit-sharma-gits/README_Icons/blob/master/cpp.svg"></code>
-  <code><img width="10%" height="80px" src="https://github.com/harshit-sharma-gits/README_Icons/blob/master/c.png"></code>
-  <code><img width="10%" height="80px" src="https://github.com/harshit-sharma-gits/README_Icons/blob/master/python.png"></code>
-  <code><img width="10%" height="80px" src="https://github.com/harshit-sharma-gits/README_Icons/blob/master/html.png"></code>
-  <code><img width="10%" height="80px" src="https://github.com/harshit-sharma-gits/README_Icons/blob/master/css.png"></code>
-  <code><img width="10%" height="80px" src="https://github.com/harshit-sharma-gits/README_Icons/blob/master/js.png"></code>
-  <code><img width="10%" height="80px" src="https://github.com/harshit-sharma-gits/README_Icons/blob/master/jquery.png"></code>
-  <code><img width="10%" height="80px" src="https://github.com/harshit-sharma-gits/README_Icons/blob/master/bootstrap.png"></code>
-  <code><img width="10%" height="80px" src="https://github.com/harshit-sharma-gits/README_Icons/blob/master/git.png"></code>
-  <code><img width="10%" height="80px" src="https://github.com/harshit-sharma-gits/README_Icons/blob/master/netlify.png"></code>
-  <code><img width="10%" height="80px" src="https://github.com/harshit-sharma-gits/README_Icons/blob/master/azure.png"></code>
-  <code><img width="10%" height="80px" src="https://github.com/harshit-sharma-gits/README_Icons/blob/master/firebase.png"></code>
-  <code><img width="10%" height="80px" src="https://github.com/harshit-sharma-gits/README_Icons/blob/master/qt.png"></code>
-  <code><img width="10%" height="80px" src="https://github.com/harshit-sharma-gits/README_Icons/blob/master/sfml.png"></code>
-  <code><img width="10%" height="80px" src="https://github.com/harshit-sharma-gits/README_Icons/blob/master/vscode.png"></code>
-</p>
--->
+<p align="left"> <a href="https://www.dev.to/harshitsharmagits" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/harshit.singhsharma/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/harshit-sharma-gits" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://HarshitSharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sharma._harshit._/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harshit-sharma-bb36b41b5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Harshit16901106" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/CoderBuddy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/harshit-sharma-gits"><img src="https://github-readme-stats.vercel.app/api?username=harshit-sharma-gits&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="harshit-sharma-gits's GitHub stats" /></a>
+
+<a href="http://www.github.com/harshit-sharma-gits"><img src="https://activity-graph.herokuapp.com/graph?username=harshit-sharma-gits&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/harshit-sharma-gits" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-sharma-gits&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/harshits904"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
