@@ -1,7 +1,7 @@
 Hi 👋 My name is Harshit Sharma
 ===============================
 
-Sophomore at Harcourt Butler Technical University, Kanpur
+Pre-final year student at Harcourt Butler Technical University, Kanpur
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Harshit's Portfolio](http://harshit-sharma-gits.github.io/)
