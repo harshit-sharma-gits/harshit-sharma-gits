@@ -6,7 +6,7 @@ Pre-final year student at Harcourt Butler Technical University, Kanpur
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Harshit's Portfolio](http://harshit-sharma-gits.github.io/)
 * ✉️  You can contact me at [harshits908@gmail.com](mailto:harshits908@gmail.com)
-* 🧠  I'm learning Flutter ;)
+* 🧠  I'm learning DevOps ;)
 * 🤝  I'm open to collaborating on Websites, Apps, and Desktop Apps
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshit-sharma-gits&color=red" /> </p>
